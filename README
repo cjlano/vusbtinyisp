@@ -1,0 +1,8 @@
+vusbtinyisp
+===========
+
+This is an electronic PCB design to build a tiny USB ISP (In-Situ Programming) for Atmel AVRs devices. It is based on the ATtiny85 microcontroller, with a mini-USB connector, and Atmel 6-pin programming header.
+
+This is based on "vusbtiny programmer" by simpleavr: http://www.simpleavr.com/avr/vusbtiny and on tin.o description of the project: http://www.cmdrkeen.net/2012/08/18/programming-avr-chips-part-two-vusbtiny-isp/
+
+This board has been designed using KiCad, and sent to production to Seeedstudio Fusion PCB service, a great and cheap chinese PCB manufacturer.
