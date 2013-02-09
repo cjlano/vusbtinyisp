@@ -1,0 +1,129 @@
+Cmp-Mod V01 Created by CvPcb (2012-nov-02)-testing date = Fri 18 Jan 2013 22:26:24 CET
+
+BeginCmp
+TimeStamp = /50BCD898;
+Reference = C1;
+ValeurCmp = 10uF;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /50BCD8A5;
+Reference = C2;
+ValeurCmp = 10uF;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /50BCD8EB;
+Reference = C3;
+ValeurCmp = 100nF;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /50BCDF68;
+Reference = D1;
+ValeurCmp = PWR;
+IdModule  = LED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /50F8699C;
+Reference = D2;
+ValeurCmp = 3V6;
+IdModule  = SOD123F;
+EndCmp
+
+BeginCmp
+TimeStamp = /50F86B16;
+Reference = D3;
+ValeurCmp = 3V6;
+IdModule  = SOD123F;
+EndCmp
+
+BeginCmp
+TimeStamp = /50F867D9;
+Reference = D4;
+ValeurCmp = VTG;
+IdModule  = LED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /50BCD7E2;
+Reference = IC1;
+ValeurCmp = ATTINY85-S;
+IdModule  = SOIC-8;
+EndCmp
+
+BeginCmp
+TimeStamp = /50BCD825;
+Reference = J1;
+ValeurCmp = USB_MINI-B;
+IdModule  = mini-USB;
+EndCmp
+
+BeginCmp
+TimeStamp = /50BCDBFE;
+Reference = P1;
+ValeurCmp = CONN_3X2;
+IdModule  = pin_array_3x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /50BCDDDB;
+Reference = P2;
+ValeurCmp = CONN_2;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /50BCD881;
+Reference = R1;
+ValeurCmp = 1k5;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /50BCD86E;
+Reference = R2;
+ValeurCmp = 68R;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /50BCD87B;
+Reference = R3;
+ValeurCmp = 68R;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /50BCDF59;
+Reference = R4;
+ValeurCmp = 1k;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /50F86837;
+Reference = R5;
+ValeurCmp = 0R;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /50F867D3;
+Reference = R6;
+ValeurCmp = 1k;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /50BCD889;
+Reference = U1;
+ValeurCmp = NX117C33Z;
+IdModule  = SOT223;
+EndCmp
+
+EndListe
