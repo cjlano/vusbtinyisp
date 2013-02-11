@@ -6,3 +6,13 @@ This is an electronic PCB design to build a tiny USB ISP (In-Situ Programming) f
 This is based on "vusbtiny programmer" by simpleavr: http://www.simpleavr.com/avr/vusbtiny and on tin.o description of the project: http://www.cmdrkeen.net/2012/08/18/programming-avr-chips-part-two-vusbtiny-isp/
 
 This board has been designed using KiCad, and sent to production to Seeedstudio Fusion PCB service, a great and cheap chinese PCB manufacturer.
+
+--------------------------------------------------------------------------------
+vusbtinyisp (c) by CJlano
+
+vusbtinyisp is licensed under a
+Creative Commons Attribution-ShareAlike 3.0 Unported License.
+
+You should have received a copy of the license along with this
+work.  If not, see <http://creativecommons.org/licenses/by-sa/3.0/>.
+--------------------------------------------------------------------------------
